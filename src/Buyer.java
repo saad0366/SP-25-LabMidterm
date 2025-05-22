@@ -1,6 +1,8 @@
+java.lang.String
+
 
 public class Buyer implements Bidder {
-    private String name;
+     String name;
 
     public Buyer(String name) {
         this.name = name;
